@@ -51,7 +51,7 @@
     "sanitize-html": "^2.11.0",
     "preferred-pm": "^3.0.3",
     "body-parser": "^1.20.2",
-    "jscodeshift": "0.13.1"
+    "jscodeshift": "0.15.1"
   },
   "peerDependencies": {
     "react": "^17.0.0 || ^18.0.0",
